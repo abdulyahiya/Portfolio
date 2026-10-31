@@ -9,6 +9,7 @@ export const PERSONAL_INFO = {
   phone: '+91-9973914185',
   email: 'abdulyahya9973@gmail.com',
   location: 'Bettiah, Bihar, India',
+  resume: '/Abdul_Yahiya_Resume_SDE.pdf',
   summary: `B.Tech Computer Science graduate (2026) and Full Stack Developer with hands-on experience building production-ready web applications using React.js, Node.js, Spring Boot, and MongoDB/PostgreSQL. Skilled in REST API design, JWT authentication, microservices, and responsive UI development. Strong foundation in Data Structures & Algorithms with a track record of delivering end-to-end features across the stack.`,
 };
 
@@ -17,6 +18,7 @@ export const SOCIAL_LINKS = {
   linkedin: 'https://www.linkedin.com/in/abdulyahiya25/',
   email: 'mailto:abdulyahya9973@gmail.com',
   whatsapp: 'https://wa.me/919973914185',
+  resume: '/Abdul_Yahiya_Resume_SDE.pdf',
 };
 
 export const NAV_LINKS = [
